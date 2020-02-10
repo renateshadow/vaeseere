@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeibeecuic.moeka.moe/sitemap.xml
